@@ -1,0 +1,5 @@
+../Core/Src/dino.c:11:6:cactus_update	6
+../Core/Src/dino.c:38:6:init	2
+../Core/Src/dino.c:49:6:display	4
+../Core/Src/dino.c:69:6:collision	3
+../Core/Src/dino.c:75:6:clear_screen	2
